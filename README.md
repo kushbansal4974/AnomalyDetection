@@ -134,4 +134,4 @@ This project is open-source under the [MIT License](LICENSE).
 ## ✨ Author
 
 **Kush Bansal**  
-📧 [Contact on LinkedIn](https://www.linkedin.com)
+📧 [Contact on LinkedIn](https://www.linkedin.com/in/kush-bansal21/)
